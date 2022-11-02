@@ -32,3 +32,6 @@ https://www.ibm.com/products/ibm-watson-natural-language-processing
 https://www.ibm.com/products/watson-speech-embed-libraries
 https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/872/ENUSAP22-0281/index.html
 
+* IBM Watson opens up AI opportunities for software vendors with embeddable libraries
+https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/
+
